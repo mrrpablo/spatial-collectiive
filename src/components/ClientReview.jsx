@@ -15,7 +15,7 @@ function ClientReview({ content, author }) {
   }, []);
 
   return (
-    <div className='relative flex flex-col justify-between rounded-md bg-[#F2EA00] text-[#000000] p-6 xl:w-full xl:h-[414px] shadow-lg font-[groterk]  h-[300px]'>
+    <div className='relative flex flex-col justify-between rounded-md bg-[#F2EA00] text-[#000000] p-6 xl:w-full xl:h-[414px] shadow-lg used_font  h-[300px]'>
       {loading ? (
         <Skeleton
           circle={true}

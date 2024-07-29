@@ -85,7 +85,7 @@ function ContactUs() {
   };
 
   return (
-    <div className='flex justify-center font-[groterk] my-6'>
+    <div className='flex justify-center used_font my-6'>
       <div className='w-[305px] md:w-[500px]'>
         <h3 className='text-center font-bold text-white text-[30px] md:text-[36px]'>
           CONTACT FORM

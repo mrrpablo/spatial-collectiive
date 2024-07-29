@@ -51,7 +51,7 @@ function Button({
       ) : (
         <button
           style={buttonSize}
-          className={`bg-[#F2EA00] text-[#0E2F26] px-2 md:px-10 py-2 rounded-md  hover:text-[#F2EA00] hover:border font-bold cursor-pointer font-[gloserk] ${
+          className={`bg-[#F2EA00] text-[#0E2F26] px-2 md:px-10 py-2 rounded-md  hover:text-[#F2EA00] hover:border font-bold cursor-pointer used_font ${
             hoverState
               ? 'hover:bg-transparent hover:text-[#F2EA00] hover:easy-in-out hover:duration-300'
               : ''

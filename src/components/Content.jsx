@@ -43,7 +43,7 @@ function Content() {
         {loading ? (
           <Skeleton count={3} width={80} height={30} />
         ) : (
-          <h4 className='working_text font-[groterk]'>
+          <h4 className='working_text font-[grotesk]'>
             Spatial collective is a GIS{' '}
             <span className='text-[#F2EA00]'>
               outfit <br /> providing solutions to your
@@ -61,7 +61,7 @@ function Content() {
             {loading ? (
               <Skeleton count={3} width={280} height={20} />
             ) : (
-              <h4 className='change_text font-[groterk] '>
+              <h4 className='change_text  used_font '>
                 Spatial collective is a GIS{' '}
                 <span className='text-[#F2EA00]'>
                   outfit <br /> providing solutions to your
@@ -71,7 +71,7 @@ function Content() {
               </h4>
             )}
           </div>
-          <div className='mt-[40px] font-[gloserk]'>
+          <div className='mt-[40px] used_font'>
             <h3 className='font-bold text-[20px] xl:text-[40px]'>
               {loading ? (
                 <Skeleton width={175} height={20} />
@@ -139,7 +139,7 @@ function Content() {
             </ul>
           </div>
 
-          <div className='mt-[40px] font-[groserk]'>
+          <div className='mt-[40px] used_font'>
             <h3 className='font-bold text-[20px] xl:text-[30px]'>
               {loading ? <Skeleton width={175} height={20} /> : 'SoftWare'}
             </h3>
@@ -250,7 +250,7 @@ function Content() {
             )}
           </div>
         </div>
-        <div className='mt-[40px] font-[gloserk] '>
+        <div className='mt-[40px] used_font '>
           <h3 className='font-bold text-[20px] xl:text-[40px]'>
             {loading ? (
               <Skeleton width={175} height={20} />
@@ -317,7 +317,7 @@ function Content() {
             )}
           </ul>
         </div>
-        <div className='mt-[40px] font-[groserk]'>
+        <div className='mt-[40px] used_font'>
           <h3 className='font-bold text-[20px] xl:text-[30px]'>
             {loading ? <Skeleton width={175} height={20} /> : 'SoftWare'}
           </h3>
