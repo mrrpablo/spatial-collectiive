@@ -67,7 +67,7 @@ function Navbar() {
         lg_width={'345px'}
         md_width={'255px'}
         md_height={'50px'}
-        width={'114px'}
+        width={'125px'}
         height={'36px'}
         smallFont={'12px'}
       />
