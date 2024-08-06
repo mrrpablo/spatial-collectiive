@@ -35,7 +35,7 @@ function ClientReviewSlide({ loading }) {
             <div className='h-[338px] xl:h-[400px]'>
               <ClientReview
                 content={
-                  'Precious successfully completed the task after fully comprehending it! He had excellent customer service and strong competence with the ArcGIS platform.'
+                  'Spatial collectiive successfully completed the task after fully comprehending it! They had excellent customer service and strong competence with the ArcGIS platform.'
                 }
                 author={'-Kyle'}
               />
@@ -44,17 +44,17 @@ function ClientReviewSlide({ loading }) {
           <SwiperSlide>
             <ClientReview
               content={
-                'Precious is very competent, understood my needs perfectly and delivered a great result. He kept in contact with me throughout, I never had to wonder how things were going.'
+                'Spatial collectiive are very competent, they understood my needs perfectly and delivered a great result. They kept in contact with me throughout, I never had to wonder how things were going.'
               }
-              author={'-Kyle'}
+              author={'Nasir'}
             />
           </SwiperSlide>
           <SwiperSlide>
             <ClientReview
               content={
-                'Precious went above and beyond! He is an expert in his craft. Completed the job to perfection, and made many adjustments afterwards as I requested them.'
+                'Spatial collectiive went above and beyond! They are expert in their craft. Completed the job to perfection, and made many adjustments afterwards as I requested them.'
               }
-              author={'-Kyle'}
+              author={'-Leonard'}
             />
           </SwiperSlide>
         </Swiper>
@@ -80,7 +80,7 @@ function ClientReviewSlide({ loading }) {
             <div className='h-[338px] xl:h-[480px]'>
               <ClientReview
                 content={
-                  'Precious successfully completed the task after fully comprehending it! He had excellent customer service and strong competence with the ArcGIS platform.'
+                  'Spatial collectiive successfully completed the task after fully comprehending it! They had excellent customer service and strong competence with the ArcGIS platform.'
                 }
                 author={'-Kyle'}
               />
@@ -89,17 +89,17 @@ function ClientReviewSlide({ loading }) {
           <SwiperSlide>
             <ClientReview
               content={
-                'Precious is very competent, understood my needs perfectly and delivered a great result. He kept in contact with me throughout, I never had to wonder how things were going. I will not hesitate to hire him again should the need arise, and neither should you!'
+                'Spatial collectiive are very competent, understood my needs perfectly and delivered a great result. They kept in contact with me throughout, I never had to wonder how things were going. I will not hesitate to hire them again should the need arise, and neither should you!'
               }
-              author={'-Kyle'}
+              author={'-Nasir'}
             />
           </SwiperSlide>
           <SwiperSlide>
             <ClientReview
               content={
-                'Precious went above and beyond! He is an expert in his craft. Completed the job to perfection, and made many adjustments afterwards as I requested them.'
+                'Spatial collectiive went above and beyond! They are experts in their craft. Completed the job to perfection, and made many adjustments afterwards as I requested them.'
               }
-              author={'-Kyle'}
+              author={'-Leonard'}
             />
           </SwiperSlide>
         </Swiper>
