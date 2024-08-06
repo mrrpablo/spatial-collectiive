@@ -114,7 +114,7 @@ function ContactUs() {
             required
           />
           <textarea
-            placeholder='Project Description'
+            placeholder='How may we be of help to you?'
             name='message'
             value={message}
             className='w-full bg-[#D9D9D9] rounded-md px-3 py-2 my-2 outline-none h-[120px]'
